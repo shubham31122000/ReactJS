@@ -1,0 +1,10 @@
+Git commands--
+
+git add .
+git commit -m "msg"
+git push 
+git checkout -d  newBranch
+git log
+git branch --delete <branchname>
+git merge <id>
+git branch
